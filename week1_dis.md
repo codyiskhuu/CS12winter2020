@@ -57,6 +57,7 @@ As programmers, we need to strive to writing correct code. This means our code s
 ```cpp
 #include <iostream>
 #include <math>
+#include <cassert>
 using namespace std;
 
 int pow(int a, int b) {
