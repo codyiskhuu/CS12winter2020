@@ -1,5 +1,7 @@
 ## Week 2 Lesson Plan :thinking:
 ###### ckhuu001@ucr.edu
+![alt text](https://github.com/codyiskhuu/CS-12-SI-Winter-2020/blob/master/images/wait.jpg "Logo Title Text 1")
+Don't forget to sign in at: https://signmein.online/student/checkin
 
 We will be covering new ways to access the input and output stream. Also some console commands :P
 
@@ -75,6 +77,3 @@ We can use files as inputs for our programs and write to files rather then outpu
       * This is called **assembler output**
       * It's a file name to execute the program (in this case main.cpp)
       * The `./` is the terminal command to execute this exectable file. 
-
-![alt text](https://github.com/codyiskhuu/CS-12-SI-Winter-2020/blob/master/images/wait.jpg "Logo Title Text 1")
-
