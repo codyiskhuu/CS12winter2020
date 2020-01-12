@@ -66,3 +66,11 @@ We can use files as inputs for our programs and write to files rather then outpu
    * To write in the file we have to use `<<` **Insertion Operation**
       * `fileOut <<"Megalovania" << endl;`
 
+---
+### Quick Bits
+   * To compile a file we write `g++ "name of file".cpp`
+      * e.g `g++ main.cpp`
+   * If the file complies correctly (No errors), you'll get a `./a.out` file.
+      * This is called **assembler output**
+      * It's a file name to execute the program (in this case main.cpp)
+      * The `./` is the terminal command to execute this exectable file. 
