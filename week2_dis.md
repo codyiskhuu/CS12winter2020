@@ -1,4 +1,5 @@
-## Lesson Plan
+## Week 2 Lesson Plan :thinking:
+###### ckhuu001@ucr.edu
 
 We will be covering new ways to access the input and output stream. Also some console commands :P
 
