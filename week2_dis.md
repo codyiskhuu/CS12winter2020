@@ -92,3 +92,21 @@ We can use files as inputs for our programs and write to files rather then outpu
       * This is called **assembler output**
       * It's a file name to execute the program (in this case main.cpp)
       * The `./` is the terminal command to execute this exectable file. 
+---
+### Exercises
+   * Write a program that reads a file named "names.txt" that stores it to a vector of strings.
+   * After placing it inside the vector, output the names while numbering them to a file named "list.txt"
+     * e.g "names.txt"
+     * ```cpp
+       Pope
+       Cook
+       Davis
+       Caruso
+       ```
+     * output file "list.txt"
+     * ```cpp
+       1. Pope
+       2. Cook
+       3. Davis
+       4. Caruso
+       ```   
