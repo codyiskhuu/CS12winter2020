@@ -75,7 +75,15 @@ We can use files as inputs for our programs and write to files rather then outpu
 
    * To write in the file we have to use `<<` **Insertion Operation**
       * `fileOut <<"Megalovania" << endl;`
-
+### TLDR
+   * Step 1: Create a input/output variable 
+      * `ifstream inputFile' or ofstream `ofstream outputFile`
+   * Step 2: Open file
+      * `inputFile.open("test.txt")` or `outputFile.open("test.txt")`
+   * Step 3: Input/Output
+      * `inputFile >> input` or `outputFile << "test"`
+   * Step 4: Close File
+      * `inputFile.close()` or `outputFile.close()`
 ---
 ### Quick Bits
    * To compile a file we write `g++ "name of file".cpp`
