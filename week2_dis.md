@@ -1,7 +1,10 @@
 ## Week 2 Lesson Plan :thinking:
 ###### ckhuu001@ucr.edu
 ![alt text](https://github.com/codyiskhuu/CS-12-SI-Winter-2020/blob/master/images/wait.jpg "Logo Title Text 1")
+
 Don't forget to sign in at: https://signmein.online/student/checkin
+* **9:00 AM - 10:00 AM SllhZQ**
+* **11:00AM - 12:00 PM YtC4Mm**
 
 We will be covering new ways to access the input and output stream. Also some console commands :P
 
