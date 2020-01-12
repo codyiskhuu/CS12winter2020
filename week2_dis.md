@@ -3,6 +3,8 @@
 We will be covering new ways to access the input and output stream. Also some console commands :P
 
 ### Standard Input & Output through the Keyboard
+* `#include <iostream>` to do standard input and output operations
+* ```cout``` and ```cin``` are *variables* provided by ```iostream```
 
 * 'include <iostream>' to do standard input and output operations
 * '''cout''' and '''cin''' are variables provided by '''iostream'''
