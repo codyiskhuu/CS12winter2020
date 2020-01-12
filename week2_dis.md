@@ -40,16 +40,8 @@ We can use files as inputs for our programs and write to files rather then outpu
          return 1; // 1 indicates an error
        }
        ```
-    * ```cpp
-      if (inputFileStream.is_open()) {
-        cout << "File opened successfully!" << endl;
-      }
-      else {
-        cout << "File failed to open" << endl;
-      }
-      ```
 
-   * Once the file is opened, we can read using the extraction operator
+   * Once the file is opened, we can read using the **extraction operator**
       * `fileInput >> variable;`
    * When you're done reading the file, we need to close it in order to use other files or even re-write this one.
       * `fileInput.close();`
