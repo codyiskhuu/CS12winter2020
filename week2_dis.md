@@ -18,3 +18,30 @@ We will be covering new ways to access the input and output stream. Also some co
 
    * `getline()` is a function that reads a "line of words" from the buffer
 
+---
+
+### File Input and Output
+
+We can use files as inputs for our programs and write to files rather then outputing it onto the consule. To do so we use **File Streams**.
+
+* `#include <fstream>` is the libary for input ad output file operations
+* File input:
+   * You need to create a `ifstream` object
+      * e.g `ifstream fileInput;`
+   * Then open the file using `.open("name of file");`
+      * `fileInput("file.txt");`
+   * To make sure the file opened correctly, we use the `is_open()` operation
+     * ```cpp
+     if ( fileInput.is_open() ){ //Opened the file correctly
+        cout<< "File Opened!" << endl;
+     }
+     else{
+        cout << "File Failed to Open :(" << endl;
+        return 1; // 1 indicates an error
+     }
+     ```
+
+   * Once the file is opened, we can read using the extraction operator
+      * `fileInput >> variable;`
+   * When you're done reading the file, we need to close it in order to use other files or even re-write this one.
+      * `fileInput.close();`
