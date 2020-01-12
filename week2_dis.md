@@ -25,7 +25,7 @@ We will be covering new ways to access the input and output stream. Also some co
 We can use files as inputs for our programs and write to files rather then outputing it onto the consule. To do so we use **File Streams**.
 
 * `#include <fstream>` is the libary for input ad output file operations
-* File input:
+* **File input:**
    * You need to create a `ifstream` object
       * e.g `ifstream fileInput;`
    * Then open the file using `.open("name of file");`
@@ -46,7 +46,7 @@ We can use files as inputs for our programs and write to files rather then outpu
    * When you're done reading the file, we need to close it in order to use other files or even re-write this one.
       * `fileInput.close();`
 
-* File Output
+* **File Output:**
    * You need to create a ofstream object
       * e.g `ofstream fileOut;`
    * We can actually create a new file by using the `.open("name of file")` function
