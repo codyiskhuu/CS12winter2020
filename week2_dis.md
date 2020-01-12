@@ -8,6 +8,8 @@ Don't forget to sign in at: https://signmein.online/student/checkin
 * **9:00 AM - 10:00 AM SllhZQ**
 * **11:00AM - 12:00 PM YtC4Mm**
 
+---
+
 We will be covering new ways to access the input and output stream. Also some console commands :P
 
 ### Standard Input & Output through the Keyboard
