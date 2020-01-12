@@ -32,13 +32,14 @@ We can use files as inputs for our programs and write to files rather then outpu
       * `fileInput("file.txt");`
    * To make sure the file opened correctly, we use the `is_open()` operation
      * ```cpp
-     if ( fileInput.is_open() ){ //Opened the file correctly
-        cout<< "File Opened!" << endl;
-     }
-     else{
-        cout << "File Failed to Open :(" << endl;
-        return 1; // 1 indicates an error
-     }
+       if ( fileInput.is_open() ){ //Opened the file correctly
+         cout<< "File Opened!" << endl;
+       }
+       else{
+         cout << "File Failed to Open :(" << endl;
+         return 1; // 1 indicates an error
+       }
+       ```
     * ```cpp
       if (inputFileStream.is_open()) {
         cout << "File opened successfully!" << endl;
@@ -46,7 +47,7 @@ We can use files as inputs for our programs and write to files rather then outpu
       else {
         cout << "File failed to open" << endl;
       }
-      ```     ```
+      ```
 
    * Once the file is opened, we can read using the extraction operator
       * `fileInput >> variable;`
