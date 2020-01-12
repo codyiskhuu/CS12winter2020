@@ -1,5 +1,7 @@
 ## Week 2 Lesson Plan :thinking:
-###### ckhuu001@ucr.edu
+###### Email: ckhuu001@ucr.edu
+###### SI Leader: Cody Khuu
+
 ![alt text](https://github.com/codyiskhuu/CS-12-SI-Winter-2020/blob/master/images/wait.jpg "Logo Title Text 1")
 
 Don't forget to sign in at: https://signmein.online/student/checkin
