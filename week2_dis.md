@@ -33,7 +33,7 @@ We can use files as inputs for our programs and write to files rather then outpu
    * To make sure the file opened correctly, we use the `is_open()` operation
      * ```cpp
        if ( fileInput.is_open() ){ //Opened the file correctly
-         cout<< "File Opened!" << endl;
+         cout << "File Opened!" << endl;
        }
        else{
          cout << "File Failed to Open :(" << endl;
@@ -55,11 +55,11 @@ We can use files as inputs for our programs and write to files rather then outpu
    * Same thing as File Input we can use `.is_open()` to see if the file opened properly
      * ```cpp
        if ( fileOut.is_open() ){ //Opened the file correctly
-          cout << "File Opened!" << endl;
+         cout << "File Opened!" << endl;
        }
        else{
-          cout << "File Failed to Open :(" << endl;
-          return 1; // 1 indicates an error
+         cout << "File Failed to Open :(" << endl;
+         return 1; // 1 indicates an error
        }
        ```
 
