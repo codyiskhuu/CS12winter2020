@@ -45,3 +45,24 @@ We can use files as inputs for our programs and write to files rather then outpu
       * `fileInput >> variable;`
    * When you're done reading the file, we need to close it in order to use other files or even re-write this one.
       * `fileInput.close();`
+
+* File Output
+   * You need to create a ofstream object
+      * e.g `ofstream fileOut;`
+   * We can actually create a new file by using the `.open("name of file")` function
+   * If you input a file that already exist, it will delete the information in that file and replace it with whatever you write into it.
+
+   * Same thing as File Input we can use `.is_open()` to see if the file opened properly
+      * ```cpp
+	if ( fileOut.is_open() ){ //Opened the file correctly
+	  cout << "File Opened!" << endl;
+        }
+        else{
+          cout << "File Failed to Open :(" << endl;
+        return 1; // 1 indicates an error
+        }
+        ```
+
+   * To write in the file we have to use `<<` **Insertion Operation**
+      * `fileOut <<"Megalovania" << endl;`
+
