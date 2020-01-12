@@ -77,7 +77,7 @@ We can use files as inputs for our programs and write to files rather then outpu
       * `fileOut <<"Megalovania" << endl;`
 ### TLDR
    * Step 1: Create a input/output variable 
-      * `ifstream inputFile' or ofstream `ofstream outputFile`
+      * `ifstream inputFile` or ofstream `ofstream outputFile`
    * Step 2: Open file
       * `inputFile.open("test.txt")` or `outputFile.open("test.txt")`
    * Step 3: Input/Output
