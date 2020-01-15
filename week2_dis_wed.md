@@ -1,4 +1,4 @@
-## Week 2 Lesson Plan :thinking:
+## Week 2 Lesson Plan :thinking: 🖳︎
 ###### Email: ckhuu001@ucr.edu
 ###### SI Leader: Cody Khuu
 
@@ -22,7 +22,7 @@ For some applications, it is useful to pass in arguments from the command line t
 
 You will write a program that prints all of the command line arguments that are passed.
 
-**Example:** We have a program called `cmdArgs.cpp` which compiles to `a.out`. If we called `./a.out hello world this is my input` then the program will print:
+**Example:** We have a program called `main.cpp` which compiles to `a.out`. If we called `./a.out hello world this is my input` then the program will print:
 
 ```
 hello
