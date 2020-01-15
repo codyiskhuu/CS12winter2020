@@ -38,7 +38,7 @@ input
 ### Program 2
 
 You will now use the command line argument to open a file that contains people's ages and will determine if they are able to drive.
-
+If you are 16 or older, you can get your permit.
 Given this input file:
 ```
 21
