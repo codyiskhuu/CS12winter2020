@@ -103,8 +103,69 @@ class Student {
     string gender;
 }
 ```
+```cpp
+string Student::getAge(){
+  //your code here
+}
+
+```
+
+
 
 The above code shows our student struct rewritten as a class. This looks like a lot more work to accomplish the same thing but it allows us to define exactly what a Student can do.
 
 Items under the `public:` keyword can be accessed outside of the class while items under `private:` can only be accessed within the class. This allows us to do error checking inside our public methods before reassigning the values of the private data members.
 
+
+---
+
+#Exercise
+
+Have you heard of the game? Raid Shadow Legends?
+
+Shadow Man Here, to tell you about Raid Shadow Legends. Here is how we are going to see if people use my code "Shadow Man" to get 50k Gold and a Free Epic Champion.
+
+```cpp
+class shadow {
+  public:
+    shadow ();
+    shadow (string code);    
+
+    void setName(string name);
+    string getName();
+
+    void setAge(int age);
+    int getAge();
+
+    void setGender(string gender);
+    string getGender();
+
+  private:
+    string name;
+    int age;
+    string gender;
+    int gold;
+    string champ;
+
+  private:
+    void giveGold();
+    void giveChamp();
+
+}
+```
+
+In this short exercise I want you, the people, to write the constructors to see if people use my sign up code "Shadow Man" in this amazing game called Raid Shadow Legends.
+
+```cpp
+int main(){
+
+  shadow player1;//constructor with no code = no gold and no champion
+
+  shadow player2("legend27");//not a correct code = no gold and no champion
+
+  shadow player3("Shaodw Man");//that's my code
+
+  return 0;
+}
+
+```
