@@ -119,11 +119,11 @@ Items under the `public:` keyword can be accessed outside of the class while ite
 
 ---
 
-### Exercise
+## Exercise
 
-Have you heard of the game? Raid Shadow Legends?
+### Have you heard of the game? Raid Shadow Legends?
 
-Shadow Man Here, to tell you about Raid Shadow Legends. Here is how we are going to see if people use my code "Shadow Man" to get 50k Gold and a Free Epic Champion.
+### Shadow Man Here, to tell you about Raid Shadow Legends. Here is how we are going to see if people use my code "Shadow Man" to get 50k Gold and a Free Epic Champion.
 
 ![alt text](https://github.com/codyiskhuu/CS12winter2020/blob/master/images/raid%20shadow%20legends.JPG "Shadow Man") 
 
