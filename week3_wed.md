@@ -171,3 +171,8 @@ int main(){
 }
 
 ```
+---
+## Sorry About that LOL, Have a nice day!!!
+
+![alt text](https://github.com/codyiskhuu/CS12winter2020/blob/master/images/sorry.jpg "Twice Bowing")
+
