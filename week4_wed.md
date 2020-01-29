@@ -49,6 +49,8 @@ Car Inventory:
 ```
 
 You should use `private` and `public` properly along with creating the appropiate getters, setters, and methods.
+#### There is a file name main.cpp on the main page of the git hub
+
 
 # Program 2
 
