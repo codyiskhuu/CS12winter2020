@@ -1,11 +1,6 @@
 ## Week 4 Lesson Plan :thinking:
 ###### Email: ckhuu001@ucr.edu
-###### SI Leader: Cody Khuu
-
-## Ō̩̻̼̜͕̪̲̹̑ͦ̊̎ͅH͑́ͧ͊́͏̱̬̟̳̯͔ ̶̴̛̺͚̤͕̻̖̆͛̉̿͗̐̐̐ͤY͉̖͂ͩ̆̍ͮ͗͜E̸̡̙̭̜̲͑̆ͥ̓̚A͌͗̃ͦ̿ͬͣ̒͏̸̖̦̩̙̟̝Hͫ͒̓̋ͦ̽̑͞҉͓!
-
-## ( ͡⚆ ͜ʖ ͡⚆)╭∩╮
-
+###### SI Leader Cody Khuu
 
 ![alt text](https://github.com/codyiskhuu/CS-12-SI-Winter-2020/blob/master/images/wait.jpg "Logo Title Text 1")
 
