@@ -10,6 +10,9 @@ Don't forget to sign in at: https://signmein.online/student/checkin
 
 ---
 
+## SIL Mid Quarter Evaluations
+https://forms.gle/92MsYQvdrCop8pFi6
+
 # Lesson Plan
 
 ## Pointer Intro
