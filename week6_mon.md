@@ -118,7 +118,7 @@ delete b;
 1. Can you have a pointer to a pointer? If so, how do you create one?
 2. If you make a pointer, `int* p = &a`, what is the value of `p` (Not dereferenced yet)?
 3. What data type is `this`?
-4. *Challenge:* How does pointer arithmetic work (++, --) ?
+
 
 
 ## Stack vs. Heap
