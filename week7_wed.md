@@ -49,13 +49,9 @@ There are 4 main cases to worry about in any linked list implementation:
 3. Inserting / Deleting the back of the list
 4. Inserting / Deleting the middle of the list
 
-## Class Exercise
-
-Come up with the conditions that correspond to each of these 4 conditions and the order that they should be checked!
-
 ## Diagram Practice
 
-Split up into 4 small groups. Each group shall be assigned one of the 4 main cases and teach the class by drawing a step by step visual diagram of both *inserting* and *deleting* nodes for their case. 
+Start with one of the 4 main cases and teach the class by drawing a step by step visual diagram of both *inserting* and *deleting* nodes for their case. 
 
 Indicate the following features:
 
