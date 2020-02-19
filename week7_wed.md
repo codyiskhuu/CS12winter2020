@@ -94,31 +94,4 @@ void deleteNode(int value);
 bool isCircular();
 ```
 
-## Conceptual Questions
 
-* Peek on next week's material!
-* What's the difference between the following code snippets?
-```cpp
-void print(IntNode* head) {
-    if (head == nullptr) {
-        return;
-    }
-    print(head->next);
-    cout << head->value << endl;
-}
-```
-```cpp
-void print(IntNode* head) {
-    if (head == nullptr) {
-        return;
-    }
-    cout << head->value << endl;
-    print(head->next);
-}
-```
-```cpp
-void print(IntNode* head) {
-    cout << head->value << endl;
-    print(head->next);
-}
-```
