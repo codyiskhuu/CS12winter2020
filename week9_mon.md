@@ -77,7 +77,7 @@ Recursion is an incredibly hard topic to understand without practice, but is ess
 
 ```cpp
 // returns the minimum value inside the vector<int> v
-int findMin(const vector<int> &v);
+int findMin(const vector<int> &v, int min);
 
 // returns true if the string is a palindrome
 string isPalindrome(const string &s);
