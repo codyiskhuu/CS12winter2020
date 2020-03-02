@@ -33,6 +33,13 @@ int fibonacci(int n) {
     return fibonacci(n-1) + fibonacci(n-2); // we use these subproblems to answer the main problem
 }
 ```
+The next number is found by adding up the two numbers before it.
+
+The 2 is found by adding the two numbers before it (1+1)
+The 3 is found by adding the two numbers before it (1+2),
+And the 5 is (2+3),
+and so on!
+
 Recursion uses *sub-problems*, which are smaller versions of the same problem to come up with the answer to the main problem. As an example, if we are interested in `fibonacci(5)`, the answer to `fibonacci(5)` is the sum of the *sub-problems* `fibonacci(3)` and `fibonacci(4)`. When we program recursively, we are only concerned with how to use these *sub-problems* and when the recursion ends, the *base case*.
 
 ## Recursion is Magic
