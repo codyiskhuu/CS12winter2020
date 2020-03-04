@@ -1,4 +1,4 @@
-## Week 8 Lesson Plan :thinking:
+## Week 9 Lesson Plan :thinking:
 ###### Email: ckhuu001@ucr.edu
 ###### SI Leader Cody Khuu
 
