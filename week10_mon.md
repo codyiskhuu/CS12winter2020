@@ -1,4 +1,4 @@
-## Week 9 Lesson Plan :thinking:
+## Week 10 Lesson Plan :thinking:
 ###### Email: ckhuu001@ucr.edu
 ###### SI Leader Cody Khuu
 
@@ -125,3 +125,7 @@ void sortAndPrint(vector<int> &v) {
 1. `O(n)`
 2. `O(log(n))`
 3. `O(n`<sup>`2`</sup>`)`
+
+## Practice Exam
+
+[Practice Exam](https://github.com/codyiskhuu/CS12winter2020/blob/master/sample_questions_cs12.pdf)
