@@ -126,6 +126,11 @@ void sortAndPrint(vector<int> &v) {
 2. `O(log(n))`
 3. `O(n`<sup>`2`</sup>`)`
 
+## Big O Cheat Sheet
+
+[Webisite](https://www.bigocheatsheet.com/)
+
+
 ## Practice Exam
 
 [Practice Exam](https://github.com/codyiskhuu/CS12winter2020/blob/master/sample_questions_cs12.pdf)
